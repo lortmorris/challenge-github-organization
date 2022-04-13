@@ -1,0 +1,11 @@
+.component-Link {
+  text-decoration: none;
+  color: #73737D;
+}
+.selectedLink {
+  font-weight: 400;
+  color: #FF7F1F;
+  margin-top: 6px;
+  padding-bottom: 6px;
+  border-bottom: 2px solid #FF7F1F;
+}

@@ -1,0 +1,8 @@
+.component-Text {
+    color: #73737D;
+  }
+  
+  .selectedText {
+    font-weight: bold !important;
+    color: #FF7F1F !important;
+  }

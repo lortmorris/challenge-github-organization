@@ -1,0 +1,16 @@
+.component-headerText {
+    height: 50px;
+    background: #fcfcfc;
+    border-radius: 10px;
+    color: #73737D;
+    display: flex;
+    align-items: center;
+    font-size: 24px;
+  }
+
+  .component-headerText > .component-headerText-path {
+    padding: 4px;
+  }
+
+
+  

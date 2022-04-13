@@ -1,0 +1,26 @@
+.component-screen-children {
+  background: #fcfcfc;
+  margin-top: 16px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.component-drawer {
+  background-color: #302E37;
+}
+
+.component-screen-header {
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+
+.component-screen-footer {
+  padding: 10px 20px;
+  margin-top: 20px;
+}
+.MuiSvgIcon-colorPrimary{
+  color: #E1E0E6;
+}
+.MuiSvgIcon-colorSecondary{
+  color: #FF7F1F;
+}
