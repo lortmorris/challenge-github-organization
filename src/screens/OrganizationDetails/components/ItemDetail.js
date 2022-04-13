@@ -8,7 +8,7 @@ function ItemDetail({ data }) {
   return (
     <Box>
       {data.map((i) => (
-        <Row>
+        <Row key={i.label}>
           <Text fontSize={18} fontWeight="bold" color="blue">
             {`${i.label}: `}
           </Text>
