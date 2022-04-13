@@ -33,7 +33,7 @@ project locally and share the result via a GitHub public repo or zipped files in
 ```bash
 $ git clone https://github.com/lortmorris/challenge-github-organization.git
 $ cd challenge-github-organization
-$ npm install
+$ yarn
 ```
 # Run
 ```bash
